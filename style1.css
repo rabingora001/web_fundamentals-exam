@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 2000px;
+    width: 980px;
+    background-color: #ffffff;
+}
+.navbar{
+    height: 50px;
+    width: 900px;
+    background-color:#e3e3e3;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+.navbar img{
+    height:50px
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 15px;
+    background-color: #e3e3e3;
+    line-height: 50px;
+    margin: 00px 10px;
+    vertical-align: top; 
+    color: black; 
+}
+.search-box{
+    height:30px;
+    width: 20px;
+}
+.main-image img{
+    height: 300px;
+    width: 900px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.main-image-navbar{
+   height: 40px;
+   width: 900px;
+   background-color: #484746;
+   margin-left: 40px;
+   border-bottom-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+}
+.main-image-navbar a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 40px;
+    margin: 00px 30px;
+    vertical-align: top; 
+    color:#6390a7; 
+}
+.browse-nav{
+    height: 100px;
+    width: 900px;
+    background-color:  #ffffff;
+    margin-left: 40px;
+}
+.browse-nav p{
+    margin-left: 40px;
+    line-height: 100px;
+    color: grey;
+    font-size: 15px;
+    display:inline-block;
+    vertical-align: top;
+}
+.browse-button{
+    height:30px;
+    width:250px;
+    background-color: #4e88ae;
+    margin-left: 600px;
+    border-radius: 5px;
+    display:inline-block;
+    vertical-align: top;
+    margin-top: 25px;
+}
+.browse-button span{
+    font-size: 20px;
+    color: whitesmoke;
+    line-height: 30px;
+    margin-left: 50px;
+}
+.main-content{
+    height:250px;
+    width:900px;
+    background-color: #ffffff;
+    margin-left: 40px;
+}
+.main-box{
+    height:250px;
+    width:215px;
+    background-color: #ffffff;
+    margin-left: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+.main-box button{
+        height:25x;
+        width:215px;
+        background-color:#5caeeb;
+        color: white;
+}
+.main-box #big-image{
+    height:200x;
+    width:215px;
+}
+.watch-now{
+    margin-left: 40px;
+}
+.watch-now button{
+    height:60x;
+    width:215px;
+    background-color: #5caae3;
+    margin-left: 5px;
+}
+.footer{
+    height:250px;
+    width: 900px;
+    background-color: grey;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.footer-sections{
+    height:250px;
+    width: 140px;
+    background-color: red;
+    margin-left: 5px;
+    display: inline-block;
+    
+}
+.author{
+    height:300px;
+    width:900px;
+    background-color: #ffffff;
+    margin-left: 40px;
+    font-size: 10px;
+    margin-bottom: 20px;
+}
